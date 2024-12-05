@@ -25,15 +25,6 @@ public class Ejercicio03 {
                 System.out.printf("%s", "*");
             }
             System.out.println("\n");
-        }
-         
-             
-                    
-                     
-                     
-                 
-             
-             
-         
+        }  
     }
 }
